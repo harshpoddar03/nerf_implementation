@@ -147,8 +147,8 @@ class Nerf(nn.Module):
 The input to the model were 90 train images of a fox from various angle and depth. To test the model we inputted the poses and intrinsics of 10 test images that generated 10 different images according to the poses and instrictics and those images where converted in a gif format as shown below.
 
 <div style="display: flex;">
-<img src="./01_Data/imgs/train_0.png" alt="alt text" width="500">
-<img src="./assets/wolverine.gif" alt="alt text" width="500">
+<img src="./01_Data/imgs/train_0.png" alt="alt text" width="300">
+<img src="./assets/wolverine.gif" alt="alt text" width="300">
 </div>
 
 
