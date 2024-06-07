@@ -56,8 +56,10 @@ Add any other libraries your project depends on. If the libraries differ between
 ## Overview
 NeRFs are a groundbreaking method in computer vision and graphics that allow for the creation of incredibly realistic 3D scenes and novel view synthesis from a limited set of input images. Unlike traditional 3D modeling techniques that rely on explicit geometric representations, NeRFs model a scene implicitly as a continuous 5D function that maps a 3D location and 2D viewing direction to the corresponding color and density.
 
-![](https://user-images.githubusercontent.com/7057863/78472232-cf374a00-7769-11ea-8871-0bc710951839.gif)
-![](https://user-images.githubusercontent.com/7057863/78472235-d1010d80-7769-11ea-9be9-51365180e063.gif)
+  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <img src="https://user-images.githubusercontent.com/7057863/78472232-cf374a00-7769-11ea-8871-0bc710951839.gif" alt="GIF 1">
+    <img src="https://user-images.githubusercontent.com/7057863/78472235-d1010d80-7769-11ea-9be9-51365180e063.gif" alt="GIF 2">
+  </div>
 
 
 ## How NeRFs Work
