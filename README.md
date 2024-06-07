@@ -148,7 +148,7 @@ The input to the model were 90 train images of a fox from various angle and dept
 
 
 <img src="./01_Data/imgs/train_0.png" alt="alt text" width="500">
-<img src="./assets/wolverine.gif" alt="alt text" width="1000">
+<img src="./assets/wolverine.gif" alt="alt text" width="500">
 
 
 
